@@ -2,6 +2,7 @@
 
 My name is Ravi
 I am a 19yo Computer Science student at the University of Utrecht (NL) ‼️
+<img width="3000" height="3000" alt="albumCover2" src="https://github.com/user-attachments/assets/7a7c2e6e-5a6b-4d57-a3cb-f4fd5d0c821b" />
 
 I love music
 
@@ -10,12 +11,15 @@ I also like some coding
 But I love music 😸
 
 I'm in a band called Metric System (Guitar and vocals)\
-I also produce, record, and mix music
+I also produce, record, mix, and master music
 
 Functional programming is the GOAT
 
 ## Most recent project
 For my ambient album that is soon releasing, I made a music video for one of the singles. I did this with the 3D-modelling software Blender, some stock videos from Pexels, and video-editing software. The effects were made with different blend-modes, and by slowing down videos to very low framerates. I really like these natural but trippy effects (and maube went a little overboard with it)
+
+[The Video] (https://www.youtube.com/watch?v=N6skuvPIqC0)
+
 
 
 
@@ -109,10 +113,11 @@ I would love to make music together, mix some of your ideas, or master your musi
 I would also love to collaborate on coding projects, just hit me up! If I do not know the language you want to work with, don't worry I can learn :)
 
 You can reach out to me by sending me a mail at:
-- [ravimos@outlook.com](ravimos@outlook.com)
+- ravimos@outlook.com
 
 Or by sending me a DM on Insta:
 - [@ravimosmos](https://instagram.com/ravimosmos)
+
 
 <!--
 **ThomYorkesBaby/ThomYorkesBaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
