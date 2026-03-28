@@ -85,7 +85,7 @@ Blender I love you I love you I love you! 🔥 \
 I love making weird node-based shaders in Blender. Composing different seemingly different elements into something whole can be very rewarding and magical. This applies to everything (music, nature, etc. etc.)!! I also really like that it is open-source ;8
 
 Fusion 360 is also very cool, but way different from what I'm used to. Not open-source but free for individual and educational use :)
-<img width="300" height="300" alt="Blender_logo_no_text svg" src="https://github.com/user-attachments/assets/f5a7f60d-a865-4b0c-882d-0cb3641bbdfc" />
+<img width="50" height="50" alt="Blender_logo_no_text svg" src="https://github.com/user-attachments/assets/f5a7f60d-a865-4b0c-882d-0cb3641bbdfc" />
 
 
 
