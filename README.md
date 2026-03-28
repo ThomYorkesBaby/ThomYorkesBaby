@@ -17,11 +17,13 @@ Functional programming is the GOAT
 ## Most recent project
 For my ambient album that is soon releasing, I made a music video for one of the singles. I did this with the 3D-modelling software Blender, some stock videos from Pexels, and video-editing software. The effects were made with different blend-modes, and by slowing down videos to very low framerates. I really like these natural but trippy effects (and maube went a little overboard with it)
 
+
+
 Album releases April 10th 2026!
 
 ## For my studies, I'm currently working on:
-  - An automatic toilet freshener and an automatic plant waterer, using an Arduino and ESP8266 (Interaction Technology)
-  - A water simulation research paper, based on the Manning-Strickler equation, in C# (Research Methods for CS)
+  - An automatic toilet freshener and an automatic plant waterer, using an Arduino and ESP8266 (Interaction Technology). Together with [@bionic85](https://github.com/bionic85)
+  - A water simulation research paper, based on the Manning-Strickler equation, in C# (Research Methods for CS). Together with [@BramStorm](https://github.com/BramStorm)
 
 ## Personal projects I'm currently working on:
   - Releasing an ambient album (just done with mastering and uploading) (Releases April 10th 2026 🔥‼️)
@@ -88,7 +90,7 @@ Some past projects I did
 ### Music:
 
 2025 - Euler's Identity Crisis: \
-A mostly electronic EP, in collaboration with my great friend @bionic85. This is not awesome in terms of mixing and mastering, but it is filled with fun ideas and I still like listening to this from time to time!
+A mostly electronic EP, in collaboration with my great friend [@bionic85](https://github.com/bionic85). This is not awesome in terms of mixing and mastering, but it is filled with fun ideas and I still like listening to this from time to time!
 
 2024 - The Poop Tape: \
   My debut solo album. I was still 17...... It's about poop = funny, but also, life is shit sometimes. I mixed a lot genres on this album, and tried to keep it as coherent as possible. For me, this was mostly a challenge for myself to explore where the limits
@@ -96,8 +98,8 @@ A mostly electronic EP, in collaboration with my great friend @bionic85. This is
 ### Coding:
 Babego. As my first real coding project, I made a digitalized version of Stratego, with some extra fun power-ups and new characters. I did this with a group of 5, and made it. We made this in 3 months, and overcame a lot of hurdles that came with working together with random people. I made the movement and the background music for this project. We used Godot, and programmed in C# for this project.
 
-
-
+Labubu Destroyer. A 2-player spaceshooter game, made fully in functional programming language HASKELL. Also made this with [@bionic85](https://github.com/bionic85)
+We used the Gloss library to develop this game.
 
 
 
@@ -107,10 +109,10 @@ I would love to make music together, mix some of your ideas, or master your musi
 I would also love to collaborate on coding projects, just hit me up! If I do not know the language you want to work with, don't worry I can learn :)
 
 You can reach out to me by sending me a mail at:
-- ravimos@outlook.com
+- [ravimos@outlook.com](ravimos@outlook.com)
 
 Or by sending me a DM on Insta:
-- @ravimosmos
+- [@ravimosmos](https://instagram.com/ravimosmos)
 
 <!--
 **ThomYorkesBaby/ThomYorkesBaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
