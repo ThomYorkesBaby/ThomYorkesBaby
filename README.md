@@ -98,7 +98,7 @@ A mostly electronic EP, in collaboration with my great friend [@bionic85](https:
 ### Coding:
 Babego. As my first real coding project, I made a digitalized version of Stratego, with some extra fun power-ups and new characters. I did this with a group of 5, and made it. We made this in 3 months, and overcame a lot of hurdles that came with working together with random people. I made the movement and the background music for this project. We used Godot, and programmed in C# for this project.
 
-Labubu Destroyer. A 2-player spaceshooter game, made fully in functional programming language HASKELL. Also made this with [@bionic85](https://github.com/bionic85)
+Labubu Destroyer. A 2-player spaceshooter game, made fully in functional programming language HASKELL. Also made this with [@bionic85](https://github.com/bionic85). It's about shooting different space-labubus. Labubu's are evil, so we shoot them 😠
 We used the Gloss library to develop this game.
 
 
