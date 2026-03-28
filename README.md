@@ -16,7 +16,9 @@ I also produce, record, mix, and master music
 
 Functional programming is the GOAT
 
+<div align="right" wra>
 <img width="300" height="300" alt="albumCover" style="display: block; margin: auto;"  src="https://github.com/user-attachments/assets/7a7c2e6e-5a6b-4d57-a3cb-f4fd5d0c821b" />
+</div>
 
 ## Most recent project
 For my ambient album that is soon releasing, I made a music video for one of the singles. I did this with the 3D-modelling software Blender, some stock videos from Pexels, and video-editing software. The effects were made with different blend-modes, and by slowing down videos to very low framerates. I really like these natural but trippy effects (and maube went a little overboard with it)
