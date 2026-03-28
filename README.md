@@ -16,16 +16,12 @@ I also produce, record, mix, and master music
 
 Functional programming is the GOAT
 
-<img width="300" height="300" alt="albumCover2" style="display: block; margin: auto;"  src="https://github.com/user-attachments/assets/7a7c2e6e-5a6b-4d57-a3cb-f4fd5d0c821b" />
+<img width="300" height="300" alt="albumCover" style="display: block; margin: auto;"  src="https://github.com/user-attachments/assets/7a7c2e6e-5a6b-4d57-a3cb-f4fd5d0c821b" />
 
 ## Most recent project
 For my ambient album that is soon releasing, I made a music video for one of the singles. I did this with the 3D-modelling software Blender, some stock videos from Pexels, and video-editing software. The effects were made with different blend-modes, and by slowing down videos to very low framerates. I really like these natural but trippy effects (and maube went a little overboard with it)
 
 [The Video] (https://www.youtube.com/watch?v=N6skuvPIqC0)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6skuvPIqC0?si=eBF0OGuqhf36AgYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
 
 Album releases April 10th 2026!
 
@@ -89,6 +85,7 @@ Blender I love you I love you I love you! 🔥 \
 I love making weird node-based shaders in Blender. Composing different seemingly different elements into something whole can be very rewarding and magical. This applies to everything (music, nature, etc. etc.)!! I also really like that it is open-source ;8
 
 Fusion 360 is also very cool, but way different from what I'm used to. Not open-source but free for individual and educational use :)
+<img width="300" height="300" alt="Blender_logo_no_text svg" src="https://github.com/user-attachments/assets/f5a7f60d-a865-4b0c-882d-0cb3641bbdfc" />
 
 
 
