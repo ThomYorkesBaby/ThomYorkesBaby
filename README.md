@@ -1,6 +1,6 @@
 # Ey Ey Eyyyyyyyyyy 😳
 
-My name is Ravi
+My name is Ravi and
 I am a 19yo Computer Science student at the University of Utrecht (NL) ‼️
 
 
